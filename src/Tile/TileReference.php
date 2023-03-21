@@ -4,6 +4,7 @@ namespace srag\Plugins\SrTile\Tile;
 
 use ilContainerReference;
 use ilObjectFactory;
+use ilObject;
 
 /**
  * Class TileReference

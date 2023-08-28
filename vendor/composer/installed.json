@@ -1,0 +1,442 @@
+[
+    {
+        "name": "components/flag-icon-css",
+        "version": "3.4.5",
+        "version_normalized": "3.4.5.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/lipis/flag-icon-css.git",
+            "reference": "1f59635c9fb1b7464c2e710ba6da2119210753cd"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/lipis/flag-icon-css/zipball/1f59635c9fb1b7464c2e710ba6da2119210753cd",
+            "reference": "1f59635c9fb1b7464c2e710ba6da2119210753cd",
+            "shasum": ""
+        },
+        "time": "2019-10-23T19:15:31+00:00",
+        "type": "component",
+        "extra": {
+            "component": {
+                "name": "flag-icon-css",
+                "files": [
+                    "less/**",
+                    "css/**",
+                    "flags/**"
+                ]
+            }
+        },
+        "installation-source": "dist",
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Panayiotis Lipiridis (Lipis)",
+                "email": "lipiridis@gmail.com"
+            }
+        ],
+        "description": "CSS for vector based country flags"
+    },
+    {
+        "name": "ksubileau/color-thief-php",
+        "version": "v1.4.1",
+        "version_normalized": "1.4.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/ksubileau/color-thief-php.git",
+            "reference": "fc2acefacbd037f68cf61bcc62b30ac1bb16ed59"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/ksubileau/color-thief-php/zipball/fc2acefacbd037f68cf61bcc62b30ac1bb16ed59",
+            "reference": "fc2acefacbd037f68cf61bcc62b30ac1bb16ed59",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.4.0"
+        },
+        "require-dev": {
+            "friendsofphp/php-cs-fixer": "^2.13",
+            "phpunit/phpunit": "~4.8|~5.7"
+        },
+        "suggest": {
+            "ext-gd": "to use the GD image adapter.",
+            "ext-gmagick": "to use the Gmagick image adapter.",
+            "ext-imagick": "to use the Imagick image adapter."
+        },
+        "time": "2018-10-27T18:57:38+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "ColorThief\\": "lib/ColorThief"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "CC-BY-2.5"
+        ],
+        "authors": [
+            {
+                "name": "Kevin Subileau",
+                "homepage": "http://www.kevinsubileau.fr"
+            }
+        ],
+        "description": "Grabs the dominant color or a representative color palette from an image.",
+        "homepage": "http://www.kevinsubileau.fr/projets/color-thief-php",
+        "keywords": [
+            "color",
+            "dominant",
+            "palette",
+            "php",
+            "thief"
+        ]
+    },
+    {
+        "name": "srag/activerecordconfig",
+        "version": "v0.19.4",
+        "version_normalized": "0.19.4.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/studer-raimann/ActiveRecordConfig.git",
+            "reference": "5098cd3c206287da0a479f9ff4534609e8d15039"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/studer-raimann/ActiveRecordConfig/zipball/5098cd3c206287da0a479f9ff4534609e8d15039",
+            "reference": "5098cd3c206287da0a479f9ff4534609e8d15039",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=7.0",
+            "srag/custominputguis": ">=0.1.0",
+            "srag/dic": ">=0.1.0"
+        },
+        "time": "2020-01-31T09:50:26+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "srag\\ActiveRecordConfig\\SrTile\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-3.0-only"
+        ],
+        "authors": [
+            {
+                "name": "studer + raimann ag - Team Custom 1",
+                "email": "support-custom1@studer-raimann.ch",
+                "homepage": "https://studer-raimann.ch",
+                "role": "Developer"
+            }
+        ],
+        "description": "Simple ActiveRecord config for ILIAS plugins",
+        "homepage": "https://github.com/studer-raimann/ActiveRecordConfig",
+        "keywords": [
+            "ILIAS",
+            "activerecord",
+            "config"
+        ]
+    },
+    {
+        "name": "srag/custominputguis",
+        "version": "v0.31.6",
+        "version_normalized": "0.31.6.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/studer-raimann/CustomInputGUIs.git",
+            "reference": "d07cce5eb25b5f8b92604f95c2f7ba7eac327389"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/studer-raimann/CustomInputGUIs/zipball/d07cce5eb25b5f8b92604f95c2f7ba7eac327389",
+            "reference": "d07cce5eb25b5f8b92604f95c2f7ba7eac327389",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.6",
+            "srag/dic": ">=0.1.0"
+        },
+        "time": "2020-01-31T10:07:32+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "srag\\CustomInputGUIs\\SrTile\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-3.0-only"
+        ],
+        "authors": [
+            {
+                "name": "studer + raimann ag - Team Custom 1",
+                "email": "support-custom1@studer-raimann.ch",
+                "homepage": "https://studer-raimann.ch",
+                "role": "Developer"
+            }
+        ],
+        "description": "Custom Input-GUI's",
+        "homepage": "https://github.com/studer-raimann/CustomInputGUIs",
+        "keywords": [
+            "ILIAS",
+            "PropertyForm",
+            "gui",
+            "input",
+            "table"
+        ]
+    },
+    {
+        "name": "srag/dic",
+        "version": "v0.20.0",
+        "version_normalized": "0.20.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/studer-raimann/DIC.git",
+            "reference": "94d039173ca2ec209dd88300cdcb415dbc8ba7a3"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/studer-raimann/DIC/zipball/94d039173ca2ec209dd88300cdcb415dbc8ba7a3",
+            "reference": "94d039173ca2ec209dd88300cdcb415dbc8ba7a3",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=7.0"
+        },
+        "time": "2020-01-28T07:42:40+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "srag\\DIC\\SrTile\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-3.0-only"
+        ],
+        "authors": [
+            {
+                "name": "studer + raimann ag - Team Custom 1",
+                "email": "support-custom1@studer-raimann.ch",
+                "homepage": "https://studer-raimann.ch",
+                "role": "Developer"
+            }
+        ],
+        "description": "Use all ILIAS globals in your class",
+        "homepage": "https://github.com/studer-raimann/DIC",
+        "keywords": [
+            "ILIAS",
+            "dic",
+            "globals",
+            "trait"
+        ]
+    },
+    {
+        "name": "srag/librariesnamespacechanger",
+        "version": "v0.7.0",
+        "version_normalized": "0.7.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/studer-raimann/LibrariesNamespaceChanger.git",
+            "reference": "80afdd6f1d0690004e87edadcf120fb6d0740ebb"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/studer-raimann/LibrariesNamespaceChanger/zipball/80afdd6f1d0690004e87edadcf120fb6d0740ebb",
+            "reference": "80afdd6f1d0690004e87edadcf120fb6d0740ebb",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.6"
+        },
+        "time": "2019-12-11T08:38:08+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "srag\\LibrariesNamespaceChanger\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-3.0-only"
+        ],
+        "authors": [
+            {
+                "name": "studer + raimann ag - Team Custom 1",
+                "email": "support-custom1@studer-raimann.ch",
+                "homepage": "https://studer-raimann.ch",
+                "role": "Developer"
+            }
+        ],
+        "description": "Change namespace of libraries to plugin namespace",
+        "homepage": "https://github.com/studer-raimann/LibrariesNamespaceChanger",
+        "keywords": [
+            "ILIAS",
+            "libraries"
+        ]
+    },
+    {
+        "name": "srag/notifications4plugin",
+        "version": "v5.1.7",
+        "version_normalized": "5.1.7.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/studer-raimann/Notifications4Plugin.git",
+            "reference": "062129efee8f278602546cd6c9050ca9af730305"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/studer-raimann/Notifications4Plugin/zipball/062129efee8f278602546cd6c9050ca9af730305",
+            "reference": "062129efee8f278602546cd6c9050ca9af730305",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=7.0",
+            "srag/custominputguis": ">=0.1.0",
+            "srag/dic": ">=0.1.0",
+            "twig/twig": "1.18.0"
+        },
+        "time": "2020-01-29T08:52:01+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "srag\\Notifications4Plugin\\SrTile\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-3.0-only"
+        ],
+        "authors": [
+            {
+                "name": "studer + raimann ag - Team Custom 1",
+                "email": "support-custom1@studer-raimann.ch",
+                "homepage": "https://studer-raimann.ch",
+                "role": "Developer"
+            }
+        ],
+        "description": "This library offers a quick and easy way to create and send notifications in any language. The notifications are usually configured in the config screen of Notifications4Plugin and can then be sent for instance as an email by other plugins dynamic",
+        "homepage": "https://github.com/studer-raimann/Notifications4Plugin",
+        "keywords": [
+            "ILIAS",
+            "notifications"
+        ]
+    },
+    {
+        "name": "srag/removeplugindataconfirm",
+        "version": "v0.6.3",
+        "version_normalized": "0.6.3.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/studer-raimann/RemovePluginDataConfirm.git",
+            "reference": "d3faed97ec4e5d9a20bf2c8a80cc395997caf591"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/studer-raimann/RemovePluginDataConfirm/zipball/d3faed97ec4e5d9a20bf2c8a80cc395997caf591",
+            "reference": "d3faed97ec4e5d9a20bf2c8a80cc395997caf591",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=7.0",
+            "srag/dic": ">=0.1.0"
+        },
+        "time": "2020-01-21T08:23:18+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "srag\\RemovePluginDataConfirm\\SrTile\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-3.0-only"
+        ],
+        "authors": [
+            {
+                "name": "studer + raimann ag - Team Custom 1",
+                "email": "support-custom1@studer-raimann.ch",
+                "homepage": "https://studer-raimann.ch",
+                "role": "Developer"
+            }
+        ],
+        "description": "Demand if plugin data should be removed on uninstall",
+        "homepage": "https://github.com/studer-raimann/RemovePluginDataConfirm",
+        "keywords": [
+            "ILIAS",
+            "confirm",
+            "data",
+            "plugin",
+            "uninstall"
+        ]
+    },
+    {
+        "name": "twig/twig",
+        "version": "v1.18.0",
+        "version_normalized": "1.18.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/twigphp/Twig.git",
+            "reference": "4cf7464348e7f9893a93f7096a90b73722be99cf"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/twigphp/Twig/zipball/4cf7464348e7f9893a93f7096a90b73722be99cf",
+            "reference": "4cf7464348e7f9893a93f7096a90b73722be99cf",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.2.4"
+        },
+        "time": "2015-01-25T17:32:08+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "1.18-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "Twig_": "lib/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "BSD-3-Clause"
+        ],
+        "authors": [
+            {
+                "name": "Fabien Potencier",
+                "email": "fabien@symfony.com",
+                "homepage": "http://fabien.potencier.org",
+                "role": "Lead Developer"
+            },
+            {
+                "name": "Armin Ronacher",
+                "email": "armin.ronacher@active-4.com",
+                "role": "Project Founder"
+            },
+            {
+                "name": "Twig Team",
+                "homepage": "http://twig.sensiolabs.org/contributors",
+                "role": "Contributors"
+            }
+        ],
+        "description": "Twig, the flexible, fast, and secure template language for PHP",
+        "homepage": "http://twig.sensiolabs.org",
+        "keywords": [
+            "templating"
+        ]
+    }
+]

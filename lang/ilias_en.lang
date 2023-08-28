@@ -1,0 +1,140 @@
+config_configuration#:#Configuration
+config_configuration_saved#:#Configuration saved
+config_enabled_on_favorites#:#Enabled on favorites
+config_enabled_object_links#:#Enable object links
+config_enabled_object_links_once_select#:#User can only select once
+config_enabled_on_repository#:#Enabled on repository
+config_save#:#Save
+favorites_add_to_favorites#:#Add to favorites
+favorites_added_to_favorites#:#The object has been added to the favorites
+favorites_remove_from_favorites#:#Remove from favorites
+favorites_removed_from_favorites#:#The object has been removed from the favorites
+object_links_actions#:#Actions
+object_links_add#:#Add
+object_links_add_object_link#:#Add object link
+object_links_added_object_link#:#Added object link
+object_links_cancel#:#Cancel
+object_links_can_not_be_changed_anymore#:#Can not be changed anymore after open
+object_links_language#:#Language
+object_links_merged#:#Merged
+object_links_object#:#Object
+object_links_object_links#:#Object links
+object_links_open#:#Open
+object_links_remove_object_link#:#Remove object link
+object_links_removed_object_link#:#Removed object link
+onlinestatus_offline#:#Offline
+onlinestatus_online#:#Online
+onlinestatus_set_offline#:#Set offline
+onlinestatus_set_online#:#Set online
+onlinestatus_setted_offline#:#Set offline
+onlinestatus_setted_online#:#Set online
+rating_like#:#Like
+rating_liked#:#Liked
+rating_unlike#:#Unlike
+rating_unliked#:#Unliked
+recommendation_cancel#:#Cancel
+recommendation_link#:#Link
+recommendation_message#:#Message
+recommendation_recommend#:#Recommend
+recommendation_recommendation#:#Recommendation %s
+recommendation_recommended_to#:#To
+recommendation_sent_failure#:#Sorry, your recommendation could not be sent!
+recommendation_sent_success#:#Your recommendation has been sent!
+recommendation_submit#:#Submit
+template_actions#:#Actions
+template_cancel#:#Cancel
+template_edit_template#:#Edit template
+template_not_override#:#Not override
+template_object_type#:#Object type
+template_other#:#Other
+template_override#:#Override
+template_override_confirm#:#Would you like to override all objects of this type?
+template_overrided#:#Overrided
+template_templates#:#Templates
+tile#:#Tile
+tile_actions#:#Actions
+tile_apply#:#Apply
+tile_apply_colors_to_global_skin#:#Apply colors to global skin (Experimental)
+tile_background_color#:#Background color
+tile_border#:#Border
+tile_border_color#:#Border color
+tile_border_size#:#Border size
+tile_cancel#:#Cancel
+tile_certificate#:#Certificate (Experimental)
+tile_color_auto_from_image#:#Automatic from image
+tile_color_background#:#Color of background
+tile_color_contrast#:#Calculate automatically based on the contrast of the background color (black or white)
+tile_columns#:#Columns
+tile_columns_count#:#Count (Experimental)
+tile_columns_fix_width#:#Fix width
+tile_disabled#:#Disabled
+tile_disabled_hint#:#Disabled globally in ILIAS
+tile_download_certificate#:#Download certificate
+tile_edit_tile#:#Edit tile
+tile_enable_rating#:#Enable rating
+tile_enabled#:#Enabled
+tile_favorites#:#Favorites
+tile_font_color#:#Font color
+tile_font_size#:#Font size
+tile_horizontal_align#:#Horizontal align
+tile_horizontal_align_center#:#Center
+tile_horizontal_align_left#:#Left
+tile_horizontal_align_right#:#Right
+tile_image#:#Image
+tile_label#:#Label
+tile_language#:#Language
+tile_learning_progress#:#Learning progress
+tile_learning_progress_position#:#Position
+tile_margin#:#Margin
+tile_object_icon_position#:#Object icon
+tile_online_status#:#Online/offline status
+tile_open_false#:#Not open
+tile_open_obj_with_one_child_direct#:#Open object with one child direct
+tile_open_true#:#Open
+tile_position#:#Position
+tile_position_bottom#:#Bottom
+tile_position_left#:#Left
+tile_position_left_bottom#:#Left / Bottom
+tile_position_left_top#:#Left / Top
+tile_position_on_the_icons#:#On the icons
+tile_position_right#:#Right
+tile_position_right_bottom#:#Right / Bottom
+tile_position_right_top#:#Right / Top
+tile_position_top#:#Top
+tile_preconditions#:#Preconditions
+tile_rating#:#Rating
+tile_recommendation#:#Recommendation (Experimental)
+tile_recommend_mail_template#:#Mail template
+tile_save#:#Save
+tile_saved#:#The tile was saved
+tile_set#:#Set
+tile_shadow#:#Shadow
+tile_show_actions#:#Show actions menu
+tile_show_download_certificate#:#Show download certificate
+tile_show_false#:#Not show
+tile_show_favorites_icon#:#Show favorites icon
+tile_show_image_as_background#:#Show image as background (Experimental)
+tile_show_language_flag#:#Show language flag
+tile_show_learning_progress#:#Show learning progress
+tile_show_learning_progress_filter#:#Show filter
+tile_show_learning_progress_icon#:#Icon
+tile_show_learning_progress_legend#:#Show legend
+tile_show_learning_progress_meter#:#Progress meter
+tile_show_likes_count#:#Show likes count
+tile_show_none#:#Not show
+tile_show_object_tabs#:#Show object tabs (Read permissions)
+tile_show_online_status_icon#:#Show online/offline status icon (Write permissions)
+tile_show_only_write_permissions#:#Show only with write permissions
+tile_show_preconditions#:#Show preconditions (Experimental)
+tile_show_recommend_icon#:#Show recommend icon
+tile_show_title#:#Show title
+tile_show_true#:#Show
+tile_tile#:#Tile
+tile_vertical_align#:#Vertical align
+tile_vertical_align_bottom#:#Bottom
+tile_vertical_align_center#:#Center
+tile_vertical_align_top#:#Top
+tile_view#:#View child objects
+tile_view_disabled#:#Default ILIAS layout
+tile_view_list#:#List
+tile_view_tile#:#Tile

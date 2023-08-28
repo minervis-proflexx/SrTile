@@ -1,0 +1,140 @@
+config_configuration#:#Konfiguration
+config_configuration_saved#:#Konfiguration gespeichert
+config_enabled_on_favorites#:#In Favoriten aktivieren
+config_enabled_object_links#:#Objekt-Verknüpfungen aktivieren
+config_enabled_object_links_once_select#:#Benutzer kann nur einmal auswählen
+config_enabled_on_repository#:#Im Magazin aktivieren
+config_save#:#Speichern
+favorites_add_to_favorites#:#Zu den Favoriten legen
+favorites_added_to_favorites#:#Das Objekt wurde zu den Favoriten gelegt
+favorites_remove_from_favorites#:#Aus den Favoriten entfernen
+favorites_removed_from_favorites#:#Das Objekt wurde aus den Favoriten entfernt
+object_links_actions#:#Aktionen
+object_links_add#:#Hinzufügen
+object_links_add_object_link#:#Objekt-Verknüpfung hinzufügen
+object_links_added_object_link#:#Objekt-Verknüpfung hinzugefügt
+object_links_cancel#:#Abbrechen
+object_links_can_not_be_changed_anymore#:#Kann nach dem Öffnen nicht mehr geändert werden
+object_links_language#:#Sprache
+object_links_merged#:#Zusammengeführt
+object_links_object#:#Objekt
+object_links_object_links#:#Objekt-Verknüpfungen
+object_links_open#:#Öffnen
+object_links_remove_object_link#:#Objekt-Verknüpfung entfernen
+object_links_removed_object_link#:#Objekt-Verknüpfung entfernt
+onlinestatus_offline#:#Offline
+onlinestatus_online#:#Online
+onlinestatus_set_offline#:#Offline setzen
+onlinestatus_set_online#:#Online setzen
+onlinestatus_setted_offline#:#Offline gesetzt
+onlinestatus_setted_online#:#Online gesetzt
+rating_like#:#Like
+rating_liked#:#Liked
+rating_unlike#:#Unlike
+rating_unliked#:#Unliked
+recommendation_cancel#:#Abbrechen
+recommendation_link#:#Link
+recommendation_message#:#Nachricht
+recommendation_recommend#:#Empfehlen
+recommendation_recommendation#:#Empfehlung %s
+recommendation_recommended_to#:#An
+recommendation_sent_failure#:#Ihre Empfehlung konnte leider nicht gesendet werden!
+recommendation_sent_success#:#Ihre Empfehlung wurde gesendet!
+recommendation_submit#:#Senden
+template_actions#:#Aktionen
+template_cancel#:#Abbrechen
+template_edit_template#:#Vorlage bearbeiten
+template_not_override#:#Nicht überschreiben
+template_object_type#:#Objekt-Typ
+template_other#:#Andere
+template_override#:#Überschreiben
+template_override_confirm#:#Möchten Sie alle Objekte dieses Types überschreiben?
+template_overrided#:#Überschrieben
+template_templates#:#Vorlagen
+tile#:#Kachel
+tile_actions#:#Aktionen
+tile_apply#:#Anwenden
+tile_apply_colors_to_global_skin#:#Farben auf Globals-Skin anwenden (Experimental)
+tile_background_color#:#Hintergrund-Farbe
+tile_border#:#Rahmen
+tile_border_color#:#Rahmen-Farbe
+tile_border_size#:#Rahmen-Grösse
+tile_cancel#:#Abbrechen
+tile_certificate#:#Zertifikat (Experimental)
+tile_color_auto_from_image#:#Automatisch anhand des Bildes
+tile_color_background#:#Farbe vom Hintergrund
+tile_color_contrast#:#Automatisch anhand des Kontrasts der Hintergrund-Farbe berechnen (schwarz oder weiss)
+tile_columns#:#Spalten
+tile_columns_count#:#Anzahl (Experimental)
+tile_columns_fix_width#:#Feste Breite
+tile_disabled#:#Deaktiviert
+tile_disabled_hint#:#Global in ILIAS deaktiviert
+tile_download_certificate#:#Zertifikat herunterladen
+tile_edit_tile#:#Kachel bearbeiten
+tile_enable_rating#:#Bewertung aktivieren
+tile_enabled#:#Aktiviert
+tile_favorites#:#Favoriten
+tile_font_color#:#Schrift-Farbe
+tile_font_size#:#Schriftgrösse
+tile_horizontal_align#:#Horizontale-Ausrichtung
+tile_horizontal_align_center#:#Mitte
+tile_horizontal_align_left#:#Links
+tile_horizontal_align_right#:#Rechts
+tile_image#:#Bild
+tile_label#:#Beschriftung
+tile_language#:#Sprache
+tile_learning_progress#:#Lernfortschritt
+tile_learning_progress_position#:#Position
+tile_margin#:#Abstand
+tile_object_icon_position#:#Objekt-Icon
+tile_online_status#:#Online/Offline-Status
+tile_open_false#:#Nicht öffnen
+tile_open_obj_with_one_child_direct#:#Öffne Objekt mit nur einem Kind direkt
+tile_open_true#:#Öffnen
+tile_position#:#Position
+tile_position_bottom#:#Unten
+tile_position_left#:#Links
+tile_position_left_bottom#:#Links / Unten
+tile_position_left_top#:#Links / Oben
+tile_position_on_the_icons#:#Bei den Icons
+tile_position_right#:#Rechts
+tile_position_right_bottom#:#Rechts / Unten
+tile_position_right_top#:#Rechts / Oben
+tile_position_top#:#Oben
+tile_preconditions#:#Vorbedingungen (Experimental)
+tile_rating#:#Bewertung
+tile_recommendation#:#Empfehlung (Experimental)
+tile_recommend_mail_template#:#Mail-Vorlage
+tile_save#:#Speichern
+tile_saved#:#Die Kachel wurde gespeichert
+tile_set#:#Setzen
+tile_shadow#:#Schatten
+tile_show_actions#:#Aktionen-Menü anzeigen
+tile_show_download_certificate#:#Zertifikat herunterladen anzeigen
+tile_show_false#:#Nicht anzeigen
+tile_show_favorites_icon#:#Favoriten-Icon anzeigen
+tile_show_image_as_background#:#Bild als Hintergrund anzeigen (Experimental)
+tile_show_language_flag#:#Sprache-Flagge anzeigen
+tile_show_learning_progress#:#Lernfortschritt anzeigen
+tile_show_learning_progress_filter#:#Filter anzeigen
+tile_show_learning_progress_icon#:#Icon
+tile_show_learning_progress_legend#:#Legende anzeigen
+tile_show_learning_progress_meter#:#Progress-Meter
+tile_show_likes_count#:#Likes-Zähler anzeigen
+tile_show_none#:#Nicht anzeigen
+tile_show_object_tabs#:#Objekt-Tabs anzeigen (Leserechte)
+tile_show_online_status_icon#:#Online/Offline-Status-Icon anzeigen (Schreibrechte)
+tile_show_only_write_permissions#:#Nur mit Schreibrechte anzeigen
+tile_show_preconditions#:#Vorbedingungen anzeigen
+tile_show_recommend_icon#:#Empfehlen-Icon anzeigen
+tile_show_title#:#Titel anzeigen
+tile_show_true#:#Anzeigen
+tile_tile#:#Kachel
+tile_vertical_align#:#Vertikale-Ausrichtung
+tile_vertical_align_bottom#:#Unten
+tile_vertical_align_center#:#Mitte
+tile_vertical_align_top#:#Oben
+tile_view#:#Ansicht Kinder-Objekte
+tile_view_disabled#:#Standard ILIAS-Layout
+tile_view_list#:#Liste
+tile_view_tile#:#Kachel

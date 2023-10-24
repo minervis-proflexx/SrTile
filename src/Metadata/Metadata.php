@@ -94,6 +94,9 @@ class Metadata
 
         if (!empty($language_code)) {
             $language_code = $mapping[$language_code] ?: $language_code;
+            if ($language_code === "sq") {
+                $language_code = "al";
+            }
 
             return '<span class="flag-icon flag-icon-' . htmlspecialchars($language_code) . '"></span> ';
         }
